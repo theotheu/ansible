@@ -8,8 +8,9 @@ Run on your local laptop:
 
 More info at https://devopsu.com/guides/ansible-mac-osx.html
 
-Security
+## Security
 On your local laptop, copy the content from `~/.ssh/id_rsa.pub`
+
 On your remote host, paste the content into `<username>/.ssh/authorized_keys`
 
 # Configuration
