@@ -1,0 +1,6 @@
+# The name of the OS user (nos, vagrant)
+username: vagrant
+
+# The username and password for the repository
+repo_username: theotheu
+repo_password: lekkerbelangrijk
