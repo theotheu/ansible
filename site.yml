@@ -1,0 +1,10 @@
+---
+- name: update distribution's
+  hosts: all
+  user: root
+  
+  roles:
+  #- database
+  #- java
+  - common
+  #- tezzt
