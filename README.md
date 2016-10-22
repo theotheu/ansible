@@ -1,6 +1,7 @@
 # Requirements
-Ansible
-Run on your local laptop:
+
+## Ansible
+Run on your local (Mac) laptop:
 
 `sudo easy_install pip`
 
