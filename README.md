@@ -1,8 +1,11 @@
 # Requirements
 Ansible
 Run on your local laptop:
+
 `sudo easy_install pip`
+
 `sudo pip install ansible --quiet`
+
 More info at https://devopsu.com/guides/ansible-mac-osx.html
 
 Security
